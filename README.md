@@ -34,3 +34,6 @@ shixun_msg:
 
 homework 10:
 编译7-1和7-2
+
+javaapi:
+这个为大数据实训5利用FileSystemAPI操作hdfs
