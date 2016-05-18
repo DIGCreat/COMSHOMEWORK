@@ -37,3 +37,6 @@ homework 10:
 
 javaapi:
 这个为大数据实训5利用FileSystemAPI操作hdfs
+
+hadoopWordCount:
+大数据实训6,wordcount程序的java代码
